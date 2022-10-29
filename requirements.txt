@@ -3,3 +3,4 @@ streamlit
 pandas
 requests
 azure.cognitiveservices.speech
+python-dotenv
