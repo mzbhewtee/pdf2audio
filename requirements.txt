@@ -1,0 +1,7 @@
+PyPDF2
+streamlit
+PIL
+pandas
+requests
+azure.cognitiveservices.speech
+dotenv
