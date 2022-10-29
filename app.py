@@ -84,9 +84,10 @@ try:
                 # left_column, right_column = st.columns(2)
 
                 # with left_column:
-                if st.button("Listen in English"):
+                if st.button("Listen"):
                     st.audio("sample.mp3")
                     os.remove("sample.mp3")
+                    # st.success("Finished Playing")
                 # with right_column:
                 #     st.button("Listen in French")
                         # st.audio("sampleF.wav")
